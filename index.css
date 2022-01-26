@@ -158,6 +158,7 @@
   
     .nav-container .nav_mark {
       width: 100px;
+      vertical-align: middle;
     }
     .nav-container ul {
       display: flex;
