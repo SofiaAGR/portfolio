@@ -258,19 +258,19 @@
     height: 90%;
     transition: all 0.7s;
   }
-  .main-container .downarrow-icon i {
+  .downarrow-icon i {
     position: absolute;
     bottom: 3%;
     font-size: 40px;
     left: 50%;
     animation: bajar-subir 2s ease infinite;
   }
-  .main-container .downarrow-icon a {
+  .downarrow-icon a {
     text-decoration: none;
     transition: all 1s;
     color: var(--main-color);
   }
-  .main-container .downarrow-icon a:hover {
+  .downarrow-icon a:hover {
     color: var(--secondary-red-color);
   }
   
