@@ -202,9 +202,9 @@
   .main-container .section1-container {
     display: flex;
     position: absolute;
-    top: calc(88px + 5%);
+    top: calc(100px + 5%);
     right: 0;
-    width: calc(100% - 88px);
+    width: calc(100% - 100px);
     height: 80vh;
     margin: 0;
     justify-content: center;
