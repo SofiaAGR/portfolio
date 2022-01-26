@@ -120,6 +120,7 @@
     color: var(--main-color);
     text-decoration: none;
     text-transform: uppercase;
+    word-break: break-word;
     /* padding-bottom: 10px; */
   }
   .nav-container .fa-bars {
