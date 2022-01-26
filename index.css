@@ -319,6 +319,7 @@
   .about_me_section .section2_text h2 {
     display: inline-block;
     position: relative;
+    margin-top: 15%;
     font-size: 35px;
     transition: all 1s;
     font-weight: 300;
