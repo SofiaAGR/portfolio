@@ -202,7 +202,7 @@
   .main-container .section1-container {
     display: flex;
     position: absolute;
-    top: calc(100px + 5%);
+    top: 11%;
     right: 0;
     width: calc(100% - 100px);
     height: 80vh;
@@ -210,7 +210,9 @@
     justify-content: center;
   }
   .main-container .section1-container .main-text {
-    width: 50%;
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 10%;
   }
   .main-container .section1-container .main-text h1 {
     width: 500px;
@@ -226,7 +228,7 @@
   }
   .main-container .section1-container .main-text .bars .separate-bar {
     transition: all 1s;
-    width: 130px;
+    width: 170px;
     height: 5px;
     background-color: var(--secondary-red-color);
     margin-top: 8px;
@@ -261,7 +263,7 @@
     bottom: 3%;
     font-size: 40px;
     left: 50%;
-    animation: bajar-subir 1s ease infinite;
+    animation: bajar-subir 2s ease infinite;
   }
   .main-container .downarrow-icon a {
     text-decoration: none;
