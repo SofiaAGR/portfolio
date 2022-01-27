@@ -32,7 +32,7 @@ function mobileAdapt() {
     })
 
     new Typed('.typed', {
-        strings: ['<i class="typedText-main">front-end.</i>', '<i class="typedText-main">ux/ui designer.</i>', '<i class="typedText-main">codder.</i>', '<i class="typedText-main">nerd.</i>', '<i class="typedText-main">geek.</i>'],
+        strings: ['<i class="typedText-main">bioengineer.</i>','<i class="typedText-main">front-end developer.</i>', '<i class="typedText-main">UX/UI designer.</i>', '<i class="typedText-main">coder.</i>', '<i class="typedText-main">nerd.</i>', '<i class="typedText-main">geek.</i>'],
         typeSpeed: 50,
         startDelay: 200,
         backSpeed: 75,
