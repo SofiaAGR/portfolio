@@ -441,6 +441,7 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 1.5em;
+    border-radius: 20px;
   }
   .cv-download a span:nth-child(2) {
     color: var(--main-color);
@@ -689,6 +690,8 @@
   }
   .contact-section .info-section .email h5, .contact-section .info-section .adress h5, .contact-section .info-section .number-cel h5 {
     margin: 4% 0 0 5%;
+    display: flex;
+    align-items: center;
   }
   .contact-section .info-section .email div, .contact-section .info-section .adress div, .contact-section .info-section .number-cel div {
     width: 50px;
@@ -768,13 +771,13 @@
     text-decoration: none;
   }
   .contact-section .profile-card .container .profile-card__socialIcons i ~ .fa-linkedin {
-    transition: all 0.5s;
+    transition: all 1s;
   }
   .contact-section .profile-card .container .profile-card__socialIcons i ~ .fa-facebook-square {
-    transition: all 1.3s;
+    transition: all 1s;
   }
   .contact-section .profile-card .container .profile-card__socialIcons i ~ .fa-whatsapp {
-    transition: all 2s;
+    transition: all 1s;
   }
   .contact-section .profile-card:hover .container img, .contact-section .profile-card:hover .container h4, .contact-section .profile-card:hover .container p, .contact-section .profile-card:hover .container .profile-card__socialIcons i {
     opacity: 1;
