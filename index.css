@@ -160,7 +160,7 @@
   
     .nav-container .nav_mark {
       width: 100px;
-      vertical-align: bottom;
+      /* vertical-align: bottom; */
     }
     .nav-container ul {
       display: flex;
@@ -319,7 +319,7 @@
   .about_me_section .section2_text h2 {
     display: inline-block;
     position: relative;
-    margin-top: 15%;
+    margin-top: 5%;
     font-size: 35px;
     transition: all 1s;
     font-weight: 300;
@@ -685,7 +685,7 @@
   .contact-section .info-section .email, .contact-section .info-section .adress, .contact-section .info-section .number-cel {
     display: flex;
     flex-wrap: wrap;
-    margin-top: 30px;
+    /* margin-top: 30px; */
   }
   .contact-section .info-section .email h5, .contact-section .info-section .adress h5, .contact-section .info-section .number-cel h5 {
     margin: 4% 0 0 5%;
